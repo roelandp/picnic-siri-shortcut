@@ -1,0 +1,16 @@
+[Unit]
+Description=Picnic API voor Shortcuts
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=@USER@
+WorkingDirectory=@DIR@
+EnvironmentFile=@DIR@/.env
+ExecStart=@DIR@/.venv/bin/picnic serve
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,269 @@
+{
+  "_uitleg": "Termen die mensen zeggen, per taal, naar woorden die in Nederlandse productnamen van Picnic staan. Een term matcht een product als alle woorden van een van de varianten in de naam staan. Een deel van de term mag ook vertaald worden: 'havermelk barista' wordt 'haverdrink barista'. Aanvullen mag; het woordenboek (aliases) gaat altijd voor.",
+  "nl": {
+    "havermelk": [
+      "haverdrink"
+    ],
+    "sojamelk": [
+      "sojadrink",
+      "soja drink",
+      "groeidrink soja"
+    ],
+    "plantmelk": [
+      "haverdrink",
+      "sojadrink",
+      "soja drink"
+    ],
+    "yoghurt": [
+      "yoghurt",
+      "coco start"
+    ],
+    "kokosyoghurt": [
+      "kokosyoghurt",
+      "coco start"
+    ],
+    "chocola": [
+      "chocola",
+      "chocolonely"
+    ],
+    "chocolade": [
+      "chocola",
+      "chocolonely"
+    ],
+    "wortels": [
+      "wortel"
+    ],
+    "olijven": [
+      "olijven"
+    ],
+    "aardappels": [
+      "aardappel",
+      "krieltjes"
+    ],
+    "aardappelen": [
+      "aardappel",
+      "krieltjes"
+    ],
+    "paprika": [
+      "paprika"
+    ],
+    "bonen": [
+      "sperziebonen",
+      "bonen"
+    ],
+    "cola": [
+      "cola"
+    ],
+    "wc-papier": [
+      "toiletpapier",
+      "wc-papier"
+    ],
+    "wcpapier": [
+      "toiletpapier",
+      "wc-papier"
+    ],
+    "gewone havermelk": [
+      "haverdrink vol"
+    ],
+    "normale havermelk": [
+      "haverdrink vol"
+    ],
+    "volle havermelk": [
+      "haverdrink vol"
+    ],
+    "havermelk vol": [
+      "haverdrink vol"
+    ]
+  },
+  "en": {
+    "milk": [
+      "melk"
+    ],
+    "whole milk": [
+      "volle melk"
+    ],
+    "semi-skimmed milk": [
+      "halfvolle melk"
+    ],
+    "oat milk": [
+      "haverdrink"
+    ],
+    "soy milk": [
+      "sojadrink",
+      "soja drink",
+      "groeidrink soja"
+    ],
+    "plant milk": [
+      "haverdrink",
+      "sojadrink",
+      "soja drink"
+    ],
+    "yogurt": [
+      "yoghurt",
+      "coco start"
+    ],
+    "yoghurt": [
+      "yoghurt",
+      "coco start"
+    ],
+    "coconut yogurt": [
+      "kokosyoghurt",
+      "coco start"
+    ],
+    "coconut yoghurt": [
+      "kokosyoghurt",
+      "coco start"
+    ],
+    "chocolate": [
+      "chocola",
+      "chocolonely"
+    ],
+    "carrots": [
+      "wortel"
+    ],
+    "carrot": [
+      "wortel"
+    ],
+    "green beans": [
+      "sperziebonen"
+    ],
+    "beans": [
+      "bonen"
+    ],
+    "cucumber": [
+      "komkommer"
+    ],
+    "cucumbers": [
+      "komkommer"
+    ],
+    "peppers": [
+      "paprika"
+    ],
+    "bell peppers": [
+      "paprika"
+    ],
+    "olives": [
+      "olijven"
+    ],
+    "oats": [
+      "havermout"
+    ],
+    "oatmeal": [
+      "havermout"
+    ],
+    "porridge oats": [
+      "havermout"
+    ],
+    "potatoes": [
+      "aardappel",
+      "krieltjes"
+    ],
+    "baby potatoes": [
+      "krieltjes"
+    ],
+    "peanut butter": [
+      "pindakaas"
+    ],
+    "corn": [
+      "mais",
+      "maïs"
+    ],
+    "sweetcorn": [
+      "mais",
+      "maïs"
+    ],
+    "tomato soup": [
+      "tomatensoep"
+    ],
+    "soup": [
+      "soep"
+    ],
+    "cola": [
+      "cola"
+    ],
+    "coke": [
+      "coca-cola",
+      "cola"
+    ],
+    "bread": [
+      "brood"
+    ],
+    "eggs": [
+      "eieren"
+    ],
+    "cheese": [
+      "kaas"
+    ],
+    "butter": [
+      "boter",
+      "roomboter"
+    ],
+    "bananas": [
+      "banaan",
+      "bananen"
+    ],
+    "banana": [
+      "banaan",
+      "bananen"
+    ],
+    "apples": [
+      "appel"
+    ],
+    "tomatoes": [
+      "tomaat",
+      "tomaten"
+    ],
+    "onions": [
+      "uien",
+      "rode ui",
+      "gele ui"
+    ],
+    "garlic": [
+      "knoflook"
+    ],
+    "pasta": [
+      "pasta",
+      "spaghetti",
+      "penne"
+    ],
+    "rice": [
+      "rijst"
+    ],
+    "coffee": [
+      "koffie"
+    ],
+    "tea": [
+      "thee"
+    ],
+    "sparkling water": [
+      "bruisend water",
+      "spa rood"
+    ],
+    "toilet paper": [
+      "toiletpapier",
+      "wc-papier"
+    ],
+    "washing up liquid": [
+      "afwasmiddel"
+    ],
+    "dish soap": [
+      "afwasmiddel"
+    ],
+    "bin bags": [
+      "afvalzakken",
+      "vuilniszakken"
+    ],
+    "regular oat milk": [
+      "haverdrink vol"
+    ],
+    "normal oat milk": [
+      "haverdrink vol"
+    ],
+    "whole oat milk": [
+      "haverdrink vol"
+    ],
+    "full fat oat milk": [
+      "haverdrink vol"
+    ]
+  }
+}

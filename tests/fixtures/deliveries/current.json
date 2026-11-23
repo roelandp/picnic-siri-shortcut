@@ -1,0 +1,189 @@
+{
+ "type": "DELIVERY",
+ "delivery_id": "testdel002",
+ "creation_time": "2026-06-15T08:57:24.822+02:00",
+ "slot": {
+  "slot_id": "slot0001",
+  "hub_id": "HUB",
+  "fc_id": "FC1",
+  "window_start": "2026-09-20T17:00:00.000+02:00",
+  "window_end": "2026-09-20T18:00:00.000+02:00",
+  "cut_off_time": "2026-06-15T13:00:00.000+02:00",
+  "is_available": false,
+  "selected": false,
+  "reserved": false,
+  "unavailability_reason": "CLOSED",
+  "slot_characteristics": []
+ },
+ "eta2": {
+  "start": "2026-06-16T08:00:00.000+02:00",
+  "end": "2026-06-16T08:20:00.000+02:00"
+ },
+ "status": "CURRENT",
+ "orders": [
+  {
+   "type": "ORDER",
+   "id": "200-000-0000",
+   "items": [
+    {
+     "type": "ORDER_LINE",
+     "id": "9546_9547",
+     "items": [
+      {
+       "type": "ORDER_ARTICLE",
+       "id": "s1173086",
+       "name": "Picnic kokosyoghurt",
+       "image_ids": [
+        "ae0654a2fc01685f1c59b18ea45bc0e9b3fd716c26c2844733c71c1da62e77c1"
+       ],
+       "unit_quantity": "400 ml",
+       "price": 432199,
+       "max_count": 99,
+       "perishable": true,
+       "selling_unit_contexts_for_mutations": [],
+       "analytics_contexts": [],
+       "decorators": [
+        {
+         "type": "IMMUTABLE"
+        },
+        {
+         "type": "QUANTITY",
+         "quantity": 2
+        },
+        {
+         "type": "UNIT_QUANTITY",
+         "unit_quantity_text": "400 ml"
+        }
+       ]
+      }
+     ],
+     "display_price": 370,
+     "price": 370,
+     "decorators": [
+      {
+       "type": "PRICE",
+       "display_price": 366
+      },
+      {
+       "type": "PROMO",
+       "text": "BundelBonus",
+       "background_color": "#B40117",
+       "text_color": "#FFFFFF"
+      }
+     ]
+    },
+    {
+     "type": "ORDER_LINE",
+     "id": "9548",
+     "items": [
+      {
+       "type": "ORDER_ARTICLE",
+       "id": "s1012347",
+       "name": "Picnic bio volle melk",
+       "image_ids": [
+        "7f03653cf9fdc26d398fa359cb10c1905ebd2f29bb6b9ba3436e01d37a05ab19"
+       ],
+       "unit_quantity": "1 liter",
+       "price": 432199,
+       "max_count": 50,
+       "perishable": true,
+       "selling_unit_contexts_for_mutations": [],
+       "analytics_contexts": [],
+       "decorators": [
+        {
+         "type": "IMMUTABLE"
+        },
+        {
+         "type": "QUANTITY",
+         "quantity": 1
+        },
+        {
+         "type": "UNIT_QUANTITY",
+         "unit_quantity_text": "1 liter"
+        }
+       ]
+      }
+     ],
+     "display_price": 149,
+     "price": 149
+    },
+    {
+     "type": "ORDER_LINE",
+     "id": "9549_9550",
+     "items": [
+      {
+       "type": "ORDER_ARTICLE",
+       "id": "s1015473",
+       "name": "Bio komkommer",
+       "image_ids": [
+        "023fa6c8fece7ea27075acb64a094911c34e2bdf777090d367326792d869cf56"
+       ],
+       "unit_quantity": "1 stuk",
+       "price": 432199,
+       "max_count": 50,
+       "perishable": false,
+       "selling_unit_contexts_for_mutations": [],
+       "analytics_contexts": [],
+       "decorators": [
+        {
+         "type": "IMMUTABLE"
+        },
+        {
+         "type": "QUANTITY",
+         "quantity": 2
+        },
+        {
+         "type": "UNIT_QUANTITY",
+         "unit_quantity_text": "1 stuk"
+        }
+       ]
+      }
+     ],
+     "display_price": 298,
+     "price": 298,
+     "decorators": [
+      {
+       "type": "PRICE",
+       "display_price": 294
+      },
+      {
+       "type": "PROMO",
+       "text": "BundelBonus",
+       "background_color": "#B40117",
+       "text_color": "#FFFFFF"
+      }
+     ]
+    }
+   ],
+   "slot_selector_message": null,
+   "total_price": 9020,
+   "checkout_total_price": 9315,
+   "total_savings": 1369,
+   "total_deposit": 39,
+   "cancellable": false,
+   "transaction_info": {
+    "bank_id": "TEST",
+    "payment_type": "DIRECT_DEBIT",
+    "redacted_iban": "•••• 0000",
+    "refund_account": false
+   },
+   "creation_time": "2026-06-15T08:57:24.838+02:00",
+   "status": "CREATED",
+   "deposit_breakdown": [
+    {
+     "type": "BAG",
+     "value": 39,
+     "count": 1
+    }
+   ],
+   "decorator_overrides": {},
+   "fees": [],
+   "basket_sections": [],
+   "analytics_context_data": {},
+   "membership_savings": 0
+  }
+ ],
+ "returned_containers": [],
+ "parcels": [],
+ "id": "testdel002"
+}

@@ -1,0 +1,15 @@
+{
+  "meta": {"label": "search", "method": "GET", "path": "/pages/search-page-results", "status": 200},
+  "body": {
+    "body": {
+      "child": {
+        "type": "BLOCK",
+        "id": "search-results-block-abc123",
+        "children": [
+          {"type": "SELLING_UNIT_TILE", "id": "tile-s1001", "sellingUnit": {"id": "s1001", "name": "Halfvolle melk", "display_price": 119}},
+          {"type": "TEXT", "id": "greeting", "markdown": "Hoi Testvoornaam, zin in melk?"}
+        ]
+      }
+    }
+  }
+}
